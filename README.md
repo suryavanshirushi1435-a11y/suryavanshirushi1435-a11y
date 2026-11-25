@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm P S Darshan</h1>
+<h1 align="center">Hi 👋, I'm Rushi S</h1>
 
 <h3 align="center">B.Tech Student | CSE (AI & ML) | Aspiring AI/ML Developer</h3>
 
